@@ -1,5 +1,5 @@
 //Maya ASCII 2020 scene
-//Name: bouncinging ball.ma
+//Name: bouncing ball.ma
 //Last modified: Wed, Sep 01, 2021 02:51:49 PM
 //Codeset: 1252
 requires maya "2020";
